@@ -1,0 +1,32 @@
+#+TITLE:Intro to Parallel Computing and Scientific Computation 
+#+AUTHOR: Shannon Gallagher
+#+email: sgallagh@andrew.cmu.edu 
+#+INFOJS_OPT: 
+#+BABEL: :session *R* :cache yes :results output graphics :exports both :tangle yes 
+-----
+
+* January 15, 2015
+** Objectives
+  + sequential algorithm to parallel algorithm
+  + learn more about computers
+  + get better at documenting and writing packages
+
+To take this class or not.  It seems pretty useful, but Friday evenings...  
+
+Module 8 onward are parallel things which seems pretty useful.
+
+* Overview of Class
+  [[http://www.math.cmu.edu/~florin/M21-765/][schedule]]
+  [[http://www.math.cmu.edu/~florin/M21-765/slides/index.html][lecture notes and assignments]]
+  
+* Projects and Homework
+  [[http://www.math.cmu.edu/~florin/M21-765/homeworks.html][Project Criterion]]
+  + Start thinking of a project (ABM)
+    + Can be related to my work, documentation is important
+    + Design matters - modularity
+    + Debugging is important!
+    + Code will take the least amount of time
+    + Set reasonable goals
+  + homework - do it but not graded, can get answers
+    
+

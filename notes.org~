@@ -1,0 +1,8 @@
+#+TITLE:Intro to Parallel Computing and Scientific Computation 
+#+AUTHOR: Shannon Gallagher
+#+email: sgallagh@andrew.cmu.edu 
+#+INFOJS_OPT: 
+#+BABEL: :session *R* :cache yes :results output graphics :exports both :tangle yes 
+-----
+
+* 
